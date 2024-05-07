@@ -1,20 +1,17 @@
 <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/cover.png" />
 <p><a href="https://twitter.com/Shukumar542"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shukumar-ghosh-bbb641190/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.facebook.com/shukumar.ghosh.5/"><img src="https://img.shields.io/badge/facebook-2962FF.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+
+## :eyes: Hi there
+
+### 🔭 I’m working - I am a self-motivated Web Developer and looking a job as a frontend developer. 
+### 🌱 I’m exploring - I'm Currently Learning Next.js. 
+### 👯 Ask me about anything related to Javascript/react/Next.js. 
+### 🤔 I’m trying - To learn  Somthing New. 
+### ⚡ Fun fact - I love to playing cricket and watching.
 
 
 <br />
-
-
-I am a self-motivated Web Developer with knowledge in Next.js,Typescript,Redux ,React, Node, Express.js, MongoDBs, JavaScript, HTML, CSS,and mobile responsive web development seeking a position as a Web Developer where I can apply my skillsand ability in writing clean, efficient code and the knowledge of my UX (user experience) Design.
-
-Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
-
 
 
  
