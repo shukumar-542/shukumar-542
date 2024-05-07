@@ -45,13 +45,8 @@ Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/shukumar-542/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukumar-542&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
+  
+  
   <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shukumar-542&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
