@@ -11,6 +11,27 @@ Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/shukumar-542)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shukumar-ghosh-bbb641190//)  
 
 
+## :computer: Technologies that I know
+<br>
+<p align="center">
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/next.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/typescript.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/redux.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/JavaScript.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/react.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/HTML.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/css.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/tailwind.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/firebase.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/sass.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/bootstrap.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/node.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/mongo.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/express.png"/>
+  
+  
+</p>
+
 
 ## :chart_with_upwards_trend: Current Stats
 <br>
@@ -34,7 +55,5 @@ Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shukumar-542&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-## :computer: Technologies that I know
-<br>
-<img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/HTML.png"/>
+
 
