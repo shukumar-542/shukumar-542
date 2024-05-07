@@ -24,7 +24,7 @@ Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/tailwind.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/firebase.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/sass.png"/>
-  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/bootstrap.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/Bootstrap.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/node.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/mongo.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/express.png"/>
