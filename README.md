@@ -34,4 +34,7 @@ Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shukumar-542&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+## :computer: Technologies that I know
+<br>
+<img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/HTML.png"/>
 
