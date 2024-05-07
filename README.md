@@ -2,12 +2,36 @@
 #### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/C5603AQES3Vyw1xO4Vw/profile-displayphoto-shrink_200_200/0/1610109632673?e=1690416000&v=beta&t=hyRTKu-jsAwZOAdUaPACUUWy1kqbuEzmgB7h-ICEKPk)
 
-I am a self-motivated Web Developer with knowledge in React, Node, Express.js, MongoDB, JavaScript, HTML, CSS,and mobile responsive web development seeking a position as a Web Developer where I can apply my skillsand ability in writing clean, efficient code and the knowledge of my UX (user experience) Design.
+I am a self-motivated Web Developer with knowledge in Next.js,Typescript,Redux ,React, Node, Express.js, MongoDB, JavaScript, HTML, CSS,and mobile responsive web development seeking a position as a Web Developer where I can apply my skillsand ability in writing clean, efficient code and the knowledge of my UX (user experience) Design.
 
 Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/shukumar-542)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shukumar-ghosh-bbb641190//)  
+
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 
