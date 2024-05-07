@@ -14,8 +14,8 @@ Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
 ## :computer: Technologies that I know
 <br>
 <p align="center">
-  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/next.png" size="10" />
-  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/typescript.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/next.png"/>
+  <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/ts.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/redux.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/JavaScript.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/react.png"/>
