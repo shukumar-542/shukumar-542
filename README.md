@@ -48,7 +48,7 @@
 <br><br>
 
 ### ✨&nbsp; About Me
-<br>
+
 I am a self-motivated Web Developer with knowledge in Next.js,Typescript,Redux ,React, Node, Express.js, MongoDBs, JavaScript, HTML, CSS,and mobile responsive web development seeking a position as a Web Developer where I can apply my skillsand ability in writing clean, efficient code and the knowledge of my UX (user experience) Design.
 
 ## :chart_with_upwards_trend: Current Stats
