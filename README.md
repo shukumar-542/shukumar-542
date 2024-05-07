@@ -32,6 +32,7 @@ Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
   
 </p>
 
+<br><br><br><br><br>
 
 ## :chart_with_upwards_trend: Current Stats
 <br>
