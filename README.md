@@ -14,20 +14,27 @@ Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
 ## :computer: Technologies that I know
 <br>
 <p align="center">
+  <br>
+  <p align="center">
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/next.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/ts.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/redux.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/JavaScript.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/react.png"/>
+    </p>
+    <p align="center">
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/HTML.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/css.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/tailwind.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/firebase.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/sass.png"/>
+      </p>
+      <p align="center">
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/Bootsrap.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/node.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/mongo.png"/>
   <img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/express.png"/>
+  </p>
   
   
 </p>
