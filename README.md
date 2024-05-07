@@ -41,7 +41,7 @@ Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=shukumar-542&theme=react&border=61dafb&hide_border=true" alt="Shukumar" />
     </a>
     <a href="https://github.com/shukumar-542/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=shukumar-542&show_icons=true&theme=react&border_color=61dafb&hide_border=true&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=shukumar-542&show_icons=true&theme=react&border_color=FF1CF7&hide_border=true&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
