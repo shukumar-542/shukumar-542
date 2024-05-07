@@ -2,7 +2,7 @@
 #### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/C5603AQES3Vyw1xO4Vw/profile-displayphoto-shrink_200_200/0/1610109632673?e=1690416000&v=beta&t=hyRTKu-jsAwZOAdUaPACUUWy1kqbuEzmgB7h-ICEKPk)
 
-I am a self-motivated Web Developer with knowledge in Next.js,Typescript,Redux ,React, Node, Express.js, MongoDB, JavaScript, HTML, CSS,and mobile responsive web development seeking a position as a Web Developer where I can apply my skillsand ability in writing clean, efficient code and the knowledge of my UX (user experience) Design.
+I am a self-motivated Web Developer with knowledge in Next.js,Typescript,Redux ,React, Node, Express.js, MongoDBs, JavaScript, HTML, CSS,and mobile responsive web development seeking a position as a Web Developer where I can apply my skillsand ability in writing clean, efficient code and the knowledge of my UX (user experience) Design.
 
 Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
 
