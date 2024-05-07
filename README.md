@@ -12,7 +12,7 @@ Skills:  REACT / JS / HTML / CSS/Express Js/mongoDB/Firebase
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+## :chart_with_upwards_trend: Current Stats
 <br>
 <p align=center>
   <div align=center>
