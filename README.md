@@ -67,7 +67,7 @@ I am a self-motivated Web Developer with knowledge in Next.js,Typescript,Redux ,
   
 
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shukumar-542&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+  
 </p>
 
 
