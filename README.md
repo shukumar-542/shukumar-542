@@ -4,11 +4,11 @@
 
 ## :eyes: Hi there
 
-### 🔭 I’m working - I am a self-motivated Web Developer and looking a job as a frontend developer. 
-### 🌱 I’m exploring - I'm Currently Learning Next.js. 
-### 👯 Ask me about anything related to Javascript/react/Next.js. 
-### 🤔 I’m trying - To learn  Somthing New. 
-### ⚡ Fun fact - I love to playing cricket and watching.
+### 🔭  I’m working—I'm currently working as a Front-End Developer. I'm passionate about building interactive and user-friendly web applications. 
+### 🌱  I’m exploring – Actively learning Next.js to enhance my full-stack development skills. 
+### 👯 Ask me about – Anything related to JavaScript, React, or Next.js. I’d love to share what I know!
+### 🤔 I’m trying to learn something new every day and stay up-to-date with modern web technologies. 
+### ⚡ Fun fact – I love playing cricket and watching matches in my free time!
 
 
 <br />
