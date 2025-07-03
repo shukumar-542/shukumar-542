@@ -1,4 +1,4 @@
-<img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/banner.png" />
+<img src="https://github.com/shukumar-542/shukumar-542/blob/main/image/Banner.png" />
 <p><a href="https://twitter.com/Shukumar542"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shukumar-ghosh-bbb641190/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.facebook.com/shukumar.ghosh.5/"><img src="https://img.shields.io/badge/facebook-2962FF.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
 
 
